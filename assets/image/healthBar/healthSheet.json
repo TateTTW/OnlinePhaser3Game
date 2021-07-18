@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "healthSheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 301,
+				"h": 343
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "health0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 299,
+						"h": 47
+					}
+				},
+				{
+					"filename": "health1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 50,
+						"w": 299,
+						"h": 47
+					}
+				},
+				{
+					"filename": "health2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 99,
+						"w": 299,
+						"h": 47
+					}
+				},
+				{
+					"filename": "health3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 148,
+						"w": 299,
+						"h": 47
+					}
+				},
+				{
+					"filename": "health4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 197,
+						"w": 299,
+						"h": 47
+					}
+				},
+				{
+					"filename": "health5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 246,
+						"w": 299,
+						"h": 47
+					}
+				},
+				{
+					"filename": "health6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 295,
+						"w": 299,
+						"h": 47
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:da93c358aed7155a8e2c6cb7d4998eeb:b087e3753542d705ef083ec9421118f1:02a51d03cb9912e9a6ea4c7902db2864$"
+	}
+}

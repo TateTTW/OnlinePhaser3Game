@@ -1,0 +1,145 @@
+{
+	"textures": [
+		{
+			"image": "enemyBuilding.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1320,
+				"h": 762
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemyBuilding - Copy (2).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 438,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 438,
+						"h": 379
+					},
+					"anchor": {
+						"x": 0.4977168949771689,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemyBuilding - Copy (3).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 438,
+						"h": 379
+					},
+					"frame": {
+						"x": 441,
+						"y": 1,
+						"w": 438,
+						"h": 379
+					},
+					"anchor": {
+						"x": 0.4977168949771689,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemyBuilding - Copy (4).png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 438,
+						"h": 379
+					},
+					"frame": {
+						"x": 881,
+						"y": 1,
+						"w": 438,
+						"h": 379
+					},
+					"anchor": {
+						"x": 0.4977168949771689,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemyBuilding - Copy.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 438,
+						"h": 379
+					},
+					"frame": {
+						"x": 1,
+						"y": 382,
+						"w": 438,
+						"h": 379
+					},
+					"anchor": {
+						"x": 0.4977168949771689,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "enemyBuilding.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 379
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 438,
+						"h": 379
+					},
+					"frame": {
+						"x": 441,
+						"y": 382,
+						"w": 438,
+						"h": 379
+					},
+					"anchor": {
+						"x": 0.4977168949771689,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:730ae2efe0d52af580bc69e1a0cc0da8:89c29eb44cfed669d15ce8c619418a1f:8209ef8bd7f3a410cb1f5846c451c0f5$"
+	}
+}

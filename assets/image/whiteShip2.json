@@ -1,0 +1,645 @@
+{
+	"textures": [
+		{
+			"image": "whiteShip2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1925,
+				"h": 2142
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "whiteShipSheet-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 3,
+						"w": 383,
+						"h": 427
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 383,
+						"h": 427
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 386,
+						"y": 1,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 2,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 771,
+						"y": 1,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 2,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 1541,
+						"y": 1,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 383,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 430,
+						"w": 383,
+						"h": 425
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 383,
+						"h": 425
+					},
+					"frame": {
+						"x": 386,
+						"y": 430,
+						"w": 383,
+						"h": 425
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 382,
+						"h": 426
+					},
+					"frame": {
+						"x": 771,
+						"y": 430,
+						"w": 382,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 1155,
+						"y": 430,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 382,
+						"h": 426
+					},
+					"frame": {
+						"x": 1540,
+						"y": 430,
+						"w": 382,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 382,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 858,
+						"w": 382,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 383,
+						"h": 427
+					},
+					"frame": {
+						"x": 385,
+						"y": 858,
+						"w": 383,
+						"h": 427
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 382,
+						"h": 427
+					},
+					"frame": {
+						"x": 770,
+						"y": 858,
+						"w": 382,
+						"h": 427
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 382,
+						"h": 427
+					},
+					"frame": {
+						"x": 1154,
+						"y": 858,
+						"w": 382,
+						"h": 427
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 383,
+						"h": 427
+					},
+					"frame": {
+						"x": 1538,
+						"y": 858,
+						"w": 383,
+						"h": 427
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 382,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 1287,
+						"w": 382,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 382,
+						"h": 426
+					},
+					"frame": {
+						"x": 385,
+						"y": 1287,
+						"w": 382,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 769,
+						"y": 1287,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 382,
+						"h": 426
+					},
+					"frame": {
+						"x": 1154,
+						"y": 1287,
+						"w": 382,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 383,
+						"h": 425
+					},
+					"frame": {
+						"x": 1538,
+						"y": 1287,
+						"w": 383,
+						"h": 425
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 383,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 1715,
+						"w": 383,
+						"h": 425
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 2,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 386,
+						"y": 1715,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 2,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 771,
+						"y": 1715,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 2,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1715,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "whiteShipSheet-24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 396,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 383,
+						"h": 426
+					},
+					"frame": {
+						"x": 1541,
+						"y": 1715,
+						"w": 383,
+						"h": 426
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c1c182b234f9c226871bd05425c0598f:c33dcde5032b210803e1fce2e6491ea8:e20690019c6d25868379d041c415a073$"
+	}
+}

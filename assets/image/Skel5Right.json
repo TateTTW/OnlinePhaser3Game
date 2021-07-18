@@ -1,0 +1,3495 @@
+{
+	"textures": [
+		{
+			"image": "Skel5Right.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2022,
+				"h": 840
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_hurt_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 20,
+						"w": 98,
+						"h": 119
+					},
+					"frame": {
+						"x": 121,
+						"y": 1,
+						"w": 98,
+						"h": 119
+					},
+					"anchor": {
+						"x": 0.5969387755102041,
+						"y": 0.4789915966386555
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 33,
+						"w": 78,
+						"h": 106
+					},
+					"frame": {
+						"x": 221,
+						"y": 1,
+						"w": 78,
+						"h": 106
+					},
+					"anchor": {
+						"x": 0.8525641025641025,
+						"y": 0.41509433962264153
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 40,
+						"w": 79,
+						"h": 99
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 79,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.9050632911392406,
+						"y": 0.37373737373737376
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 40,
+						"w": 79,
+						"h": 99
+					},
+					"frame": {
+						"x": 301,
+						"y": 1,
+						"w": 79,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.9050632911392406,
+						"y": 0.37373737373737376
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 127,
+						"h": 139
+					},
+					"frame": {
+						"x": 382,
+						"y": 1,
+						"w": 127,
+						"h": 139
+					},
+					"anchor": {
+						"x": 0.594488188976378,
+						"y": 0.5539568345323741
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_slash_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 39,
+						"w": 155,
+						"h": 100
+					},
+					"frame": {
+						"x": 511,
+						"y": 1,
+						"w": 155,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.46774193548387094,
+						"y": 0.38
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 668,
+						"y": 1,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 93,
+						"h": 97
+					},
+					"frame": {
+						"x": 788,
+						"y": 1,
+						"w": 93,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.510752688172043,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 78,
+						"h": 96
+					},
+					"frame": {
+						"x": 883,
+						"y": 1,
+						"w": 78,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.6089743589743589,
+						"y": 0.3645833333333333
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 43,
+						"w": 77,
+						"h": 95
+					},
+					"frame": {
+						"x": 963,
+						"y": 1,
+						"w": 77,
+						"h": 95
+					},
+					"anchor": {
+						"x": 0.6948051948051948,
+						"y": 0.35789473684210527
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 43,
+						"w": 77,
+						"h": 95
+					},
+					"frame": {
+						"x": 1042,
+						"y": 1,
+						"w": 77,
+						"h": 95
+					},
+					"anchor": {
+						"x": 0.6948051948051948,
+						"y": 0.35789473684210527
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 33,
+						"w": 147,
+						"h": 105
+					},
+					"frame": {
+						"x": 1121,
+						"y": 1,
+						"w": 147,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.445578231292517,
+						"y": 0.41904761904761906
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 154,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 34,
+						"w": 154,
+						"h": 105
+					},
+					"frame": {
+						"x": 1270,
+						"y": 1,
+						"w": 154,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.4772727272727273,
+						"y": 0.4095238095238095
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 36,
+						"w": 147,
+						"h": 103
+					},
+					"frame": {
+						"x": 1426,
+						"y": 1,
+						"w": 147,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.47278911564625853,
+						"y": 0.39805825242718446
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 38,
+						"w": 139,
+						"h": 101
+					},
+					"frame": {
+						"x": 1575,
+						"y": 1,
+						"w": 139,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.4712230215827338,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_attack_stab_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 40,
+						"w": 129,
+						"h": 99
+					},
+					"frame": {
+						"x": 1716,
+						"y": 1,
+						"w": 129,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.46124031007751937,
+						"y": 0.37373737373737376
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 91,
+						"h": 97
+					},
+					"frame": {
+						"x": 1847,
+						"y": 1,
+						"w": 91,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.521978021978022,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 36,
+						"w": 64,
+						"h": 103
+					},
+					"frame": {
+						"x": 1940,
+						"y": 1,
+						"w": 64,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.7890625,
+						"y": 0.39805825242718446
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 29,
+						"w": 67,
+						"h": 110
+					},
+					"frame": {
+						"x": 1,
+						"y": 142,
+						"w": 67,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.7388059701492538,
+						"y": 0.43636363636363634
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 42,
+						"w": 136,
+						"h": 97
+					},
+					"frame": {
+						"x": 70,
+						"y": 142,
+						"w": 136,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.5257352941176471,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 42,
+						"w": 121,
+						"h": 101
+					},
+					"frame": {
+						"x": 208,
+						"y": 142,
+						"w": 121,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.45867768595041325,
+						"y": 0.3465346534653465
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 101,
+						"h": 98
+					},
+					"frame": {
+						"x": 331,
+						"y": 142,
+						"w": 101,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.47029702970297027,
+						"y": 0.35714285714285715
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 34,
+						"w": 80,
+						"h": 105
+					},
+					"frame": {
+						"x": 434,
+						"y": 142,
+						"w": 80,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.59375,
+						"y": 0.4095238095238095
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 29,
+						"w": 67,
+						"h": 110
+					},
+					"frame": {
+						"x": 516,
+						"y": 142,
+						"w": 67,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.7238805970149254,
+						"y": 0.43636363636363634
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 36,
+						"w": 69,
+						"h": 103
+					},
+					"frame": {
+						"x": 585,
+						"y": 142,
+						"w": 69,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.7318840579710145,
+						"y": 0.39805825242718446
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 36,
+						"w": 69,
+						"h": 103
+					},
+					"frame": {
+						"x": 585,
+						"y": 142,
+						"w": 69,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.7318840579710145,
+						"y": 0.39805825242718446
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 36,
+						"w": 69,
+						"h": 103
+					},
+					"frame": {
+						"x": 585,
+						"y": 142,
+						"w": 69,
+						"h": 103
+					},
+					"anchor": {
+						"x": 0.7318840579710145,
+						"y": 0.39805825242718446
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 30,
+						"w": 73,
+						"h": 109
+					},
+					"frame": {
+						"x": 656,
+						"y": 142,
+						"w": 73,
+						"h": 109
+					},
+					"anchor": {
+						"x": 0.6506849315068494,
+						"y": 0.43119266055045874
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_defend_with_sheild_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 42,
+						"w": 106,
+						"h": 100
+					},
+					"frame": {
+						"x": 731,
+						"y": 142,
+						"w": 106,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.4481132075471698,
+						"y": 0.35
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 839,
+						"y": 142,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 43,
+						"w": 121,
+						"h": 100
+					},
+					"frame": {
+						"x": 959,
+						"y": 142,
+						"w": 121,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.44214876033057854,
+						"y": 0.34
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 45,
+						"w": 118,
+						"h": 98
+					},
+					"frame": {
+						"x": 1082,
+						"y": 142,
+						"w": 118,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.4279661016949153,
+						"y": 0.32653061224489793
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1202,
+						"y": 142,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1202,
+						"y": 142,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1202,
+						"y": 142,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 122,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 41,
+						"w": 122,
+						"h": 99
+					},
+					"frame": {
+						"x": 1322,
+						"y": 142,
+						"w": 122,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.4713114754098361,
+						"y": 0.36363636363636365
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 41,
+						"w": 111,
+						"h": 99
+					},
+					"frame": {
+						"x": 1446,
+						"y": 142,
+						"w": 111,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.5720720720720721,
+						"y": 0.36363636363636365
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 20,
+						"w": 88,
+						"h": 118
+					},
+					"frame": {
+						"x": 1559,
+						"y": 142,
+						"w": 88,
+						"h": 118
+					},
+					"anchor": {
+						"x": 0.7784090909090909,
+						"y": 0.4830508474576271
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 17,
+						"w": 80,
+						"h": 117
+					},
+					"frame": {
+						"x": 1649,
+						"y": 142,
+						"w": 80,
+						"h": 117
+					},
+					"anchor": {
+						"x": 0.91875,
+						"y": 0.5128205128205128
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 28,
+						"w": 90,
+						"h": 108
+					},
+					"frame": {
+						"x": 1731,
+						"y": 142,
+						"w": 90,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.8388888888888889,
+						"y": 0.4537037037037037
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 64,
+						"w": 112,
+						"h": 74
+					},
+					"frame": {
+						"x": 1823,
+						"y": 142,
+						"w": 112,
+						"h": 74
+					},
+					"anchor": {
+						"x": 0.7455357142857143,
+						"y": 0.17567567567567569
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 97,
+						"w": 127,
+						"h": 48
+					},
+					"frame": {
+						"x": 1,
+						"y": 262,
+						"w": 127,
+						"h": 48
+					},
+					"anchor": {
+						"x": 0.6732283464566929,
+						"y": -0.4166666666666667
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 98,
+						"w": 127,
+						"h": 47
+					},
+					"frame": {
+						"x": 130,
+						"y": 262,
+						"w": 127,
+						"h": 47
+					},
+					"anchor": {
+						"x": 0.6732283464566929,
+						"y": -0.44680851063829785
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_2_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 47
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 98,
+						"w": 127,
+						"h": 47
+					},
+					"frame": {
+						"x": 130,
+						"y": 262,
+						"w": 127,
+						"h": 47
+					},
+					"anchor": {
+						"x": 0.6732283464566929,
+						"y": -0.44680851063829785
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 45,
+						"w": 115,
+						"h": 98
+					},
+					"frame": {
+						"x": 259,
+						"y": 262,
+						"w": 115,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.41304347826086957,
+						"y": 0.32653061224489793
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_die_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 45,
+						"w": 115,
+						"h": 98
+					},
+					"frame": {
+						"x": 376,
+						"y": 262,
+						"w": 115,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.41304347826086957,
+						"y": 0.32653061224489793
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_hurt_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 29,
+						"w": 104,
+						"h": 110
+					},
+					"frame": {
+						"x": 493,
+						"y": 262,
+						"w": 104,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.7740384615384616,
+						"y": 0.43636363636363634
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_hurt_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 28,
+						"w": 102,
+						"h": 111
+					},
+					"frame": {
+						"x": 599,
+						"y": 262,
+						"w": 102,
+						"h": 111
+					},
+					"anchor": {
+						"x": 0.6813725490196079,
+						"y": 0.44144144144144143
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_hurt_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 124,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 38,
+						"w": 124,
+						"h": 101
+					},
+					"frame": {
+						"x": 703,
+						"y": 262,
+						"w": 124,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.4959677419354839,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 829,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 949,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1069,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1189,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1309,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1429,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1549,
+						"y": 262,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 119,
+						"h": 97
+					},
+					"frame": {
+						"x": 1669,
+						"y": 262,
+						"w": 119,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4579831932773109,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 120,
+						"h": 97
+					},
+					"frame": {
+						"x": 1790,
+						"y": 262,
+						"w": 120,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 123,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 245,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 367,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 489,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 611,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 120,
+						"h": 98
+					},
+					"frame": {
+						"x": 733,
+						"y": 375,
+						"w": 120,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.45416666666666666,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_016.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 119,
+						"h": 97
+					},
+					"frame": {
+						"x": 855,
+						"y": 375,
+						"w": 119,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4579831932773109,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_017.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 976,
+						"y": 375,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_018.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1096,
+						"y": 375,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_idle_019.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1216,
+						"y": 375,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 49,
+						"w": 98,
+						"h": 90
+					},
+					"frame": {
+						"x": 1336,
+						"y": 375,
+						"w": 98,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.6275510204081632,
+						"y": 0.3111111111111111
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 51,
+						"w": 93,
+						"h": 88
+					},
+					"frame": {
+						"x": 1436,
+						"y": 375,
+						"w": 93,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.6827956989247311,
+						"y": 0.29545454545454547
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 47,
+						"w": 94,
+						"h": 93
+					},
+					"frame": {
+						"x": 1531,
+						"y": 375,
+						"w": 94,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.6648936170212766,
+						"y": 0.3225806451612903
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 30,
+						"w": 88,
+						"h": 110
+					},
+					"frame": {
+						"x": 1627,
+						"y": 375,
+						"w": 88,
+						"h": 110
+					},
+					"anchor": {
+						"x": 0.6420454545454546,
+						"y": 0.42727272727272725
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 16,
+						"w": 90,
+						"h": 114
+					},
+					"frame": {
+						"x": 1717,
+						"y": 375,
+						"w": 90,
+						"h": 114
+					},
+					"anchor": {
+						"x": 0.7611111111111111,
+						"y": 0.5350877192982456
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 31,
+						"w": 93,
+						"h": 89
+					},
+					"frame": {
+						"x": 1809,
+						"y": 375,
+						"w": 93,
+						"h": 89
+					},
+					"anchor": {
+						"x": 0.8440860215053764,
+						"y": 0.5168539325842697
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 31,
+						"w": 92,
+						"h": 84
+					},
+					"frame": {
+						"x": 1904,
+						"y": 375,
+						"w": 92,
+						"h": 84
+					},
+					"anchor": {
+						"x": 0.8206521739130435,
+						"y": 0.5476190476190477
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 31,
+						"w": 88,
+						"h": 89
+					},
+					"frame": {
+						"x": 1,
+						"y": 491,
+						"w": 88,
+						"h": 89
+					},
+					"anchor": {
+						"x": 0.8125,
+						"y": 0.5168539325842697
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 108
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 19,
+						"w": 87,
+						"h": 108
+					},
+					"frame": {
+						"x": 91,
+						"y": 491,
+						"w": 87,
+						"h": 108
+					},
+					"anchor": {
+						"x": 0.7873563218390804,
+						"y": 0.5370370370370371
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 111
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 27,
+						"w": 81,
+						"h": 111
+					},
+					"frame": {
+						"x": 180,
+						"y": 491,
+						"w": 81,
+						"h": 111
+					},
+					"anchor": {
+						"x": 0.8209876543209876,
+						"y": 0.45045045045045046
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 44,
+						"w": 93,
+						"h": 94
+					},
+					"frame": {
+						"x": 263,
+						"y": 491,
+						"w": 93,
+						"h": 94
+					},
+					"anchor": {
+						"x": 0.7043010752688172,
+						"y": 0.35106382978723405
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 51,
+						"w": 94,
+						"h": 88
+					},
+					"frame": {
+						"x": 358,
+						"y": 491,
+						"w": 94,
+						"h": 88
+					},
+					"anchor": {
+						"x": 0.675531914893617,
+						"y": 0.29545454545454547
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_jump_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 47,
+						"w": 103,
+						"h": 92
+					},
+					"frame": {
+						"x": 454,
+						"y": 491,
+						"w": 103,
+						"h": 92
+					},
+					"anchor": {
+						"x": 0.5679611650485437,
+						"y": 0.32608695652173914
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 39,
+						"w": 109,
+						"h": 98
+					},
+					"frame": {
+						"x": 559,
+						"y": 491,
+						"w": 109,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.6559633027522935,
+						"y": 0.3877551020408163
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 41,
+						"w": 109,
+						"h": 98
+					},
+					"frame": {
+						"x": 670,
+						"y": 491,
+						"w": 109,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.6192660550458715,
+						"y": 0.3673469387755102
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 42,
+						"w": 104,
+						"h": 96
+					},
+					"frame": {
+						"x": 781,
+						"y": 491,
+						"w": 104,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.5817307692307693,
+						"y": 0.3645833333333333
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 41,
+						"w": 94,
+						"h": 99
+					},
+					"frame": {
+						"x": 887,
+						"y": 491,
+						"w": 94,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.5372340425531915,
+						"y": 0.36363636363636365
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 40,
+						"w": 92,
+						"h": 98
+					},
+					"frame": {
+						"x": 983,
+						"y": 491,
+						"w": 92,
+						"h": 98
+					},
+					"anchor": {
+						"x": 0.5489130434782609,
+						"y": 0.37755102040816324
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 94,
+						"h": 102
+					},
+					"frame": {
+						"x": 1077,
+						"y": 491,
+						"w": 94,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.601063829787234,
+						"y": 0.37254901960784315
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 38,
+						"w": 95,
+						"h": 93
+					},
+					"frame": {
+						"x": 1173,
+						"y": 491,
+						"w": 95,
+						"h": 93
+					},
+					"anchor": {
+						"x": 0.6684210526315789,
+						"y": 0.41935483870967744
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 39,
+						"w": 98,
+						"h": 97
+					},
+					"frame": {
+						"x": 1270,
+						"y": 491,
+						"w": 98,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.7091836734693877,
+						"y": 0.3917525773195876
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 40,
+						"w": 100,
+						"h": 96
+					},
+					"frame": {
+						"x": 1370,
+						"y": 491,
+						"w": 100,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.695,
+						"y": 0.3854166666666667
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 41,
+						"w": 94,
+						"h": 97
+					},
+					"frame": {
+						"x": 1472,
+						"y": 491,
+						"w": 94,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.6968085106382979,
+						"y": 0.3711340206185567
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 87,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 42,
+						"w": 87,
+						"h": 97
+					},
+					"frame": {
+						"x": 1568,
+						"y": 491,
+						"w": 87,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.6839080459770115,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 41,
+						"w": 83,
+						"h": 99
+					},
+					"frame": {
+						"x": 1657,
+						"y": 491,
+						"w": 83,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.608433734939759,
+						"y": 0.36363636363636365
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 40,
+						"w": 80,
+						"h": 97
+					},
+					"frame": {
+						"x": 1742,
+						"y": 491,
+						"w": 80,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.53125,
+						"y": 0.38144329896907214
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 92,
+						"h": 101
+					},
+					"frame": {
+						"x": 1824,
+						"y": 491,
+						"w": 92,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.5597826086956522,
+						"y": 0.37623762376237624
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 38,
+						"w": 103,
+						"h": 101
+					},
+					"frame": {
+						"x": 1918,
+						"y": 491,
+						"w": 103,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.587378640776699,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_run_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 39,
+						"w": 104,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 604,
+						"w": 104,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.6009615384615384,
+						"y": 0.3958333333333333
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 42,
+						"w": 109,
+						"h": 97
+					},
+					"frame": {
+						"x": 107,
+						"y": 604,
+						"w": 109,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.44495412844036697,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 43,
+						"w": 100,
+						"h": 96
+					},
+					"frame": {
+						"x": 218,
+						"y": 604,
+						"w": 100,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.485,
+						"y": 0.3541666666666667
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 42,
+						"w": 99,
+						"h": 97
+					},
+					"frame": {
+						"x": 320,
+						"y": 604,
+						"w": 99,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.601010101010101,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 44,
+						"w": 109,
+						"h": 95
+					},
+					"frame": {
+						"x": 421,
+						"y": 604,
+						"w": 109,
+						"h": 95
+					},
+					"anchor": {
+						"x": 0.7752293577981652,
+						"y": 0.3473684210526316
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 43,
+						"w": 110,
+						"h": 96
+					},
+					"frame": {
+						"x": 532,
+						"y": 604,
+						"w": 110,
+						"h": 96
+					},
+					"anchor": {
+						"x": 0.7681818181818182,
+						"y": 0.3541666666666667
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 37,
+						"w": 110,
+						"h": 102
+					},
+					"frame": {
+						"x": 644,
+						"y": 604,
+						"w": 110,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.4954545454545455,
+						"y": 0.39215686274509803
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 37,
+						"w": 107,
+						"h": 102
+					},
+					"frame": {
+						"x": 756,
+						"y": 604,
+						"w": 107,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.39215686274509803
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 82,
+						"h": 107
+					},
+					"frame": {
+						"x": 865,
+						"y": 604,
+						"w": 82,
+						"h": 107
+					},
+					"anchor": {
+						"x": 0.6280487804878049,
+						"y": 0.35514018691588783
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_throw_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 41,
+						"w": 95,
+						"h": 105
+					},
+					"frame": {
+						"x": 949,
+						"y": 604,
+						"w": 95,
+						"h": 105
+					},
+					"anchor": {
+						"x": 0.5210526315789473,
+						"y": 0.34285714285714286
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 118,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 118,
+						"h": 97
+					},
+					"frame": {
+						"x": 1046,
+						"y": 604,
+						"w": 118,
+						"h": 97
+					},
+					"anchor": {
+						"x": 0.4533898305084746,
+						"y": 0.36082474226804123
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 51,
+						"w": 79,
+						"h": 94
+					},
+					"frame": {
+						"x": 1166,
+						"y": 604,
+						"w": 79,
+						"h": 94
+					},
+					"anchor": {
+						"x": 0.9430379746835443,
+						"y": 0.2765957446808511
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 50,
+						"w": 79,
+						"h": 94
+					},
+					"frame": {
+						"x": 1247,
+						"y": 604,
+						"w": 79,
+						"h": 94
+					},
+					"anchor": {
+						"x": 0.9430379746835443,
+						"y": 0.2872340425531915
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 8,
+						"w": 83,
+						"h": 131
+					},
+					"frame": {
+						"x": 1328,
+						"y": 604,
+						"w": 83,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0.8132530120481928,
+						"y": 0.5267175572519084
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 59,
+						"w": 141,
+						"h": 82
+					},
+					"frame": {
+						"x": 1413,
+						"y": 604,
+						"w": 141,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.39361702127659576,
+						"y": 0.21951219512195122
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 63,
+						"w": 140,
+						"h": 82
+					},
+					"frame": {
+						"x": 1556,
+						"y": 604,
+						"w": 140,
+						"h": 82
+					},
+					"anchor": {
+						"x": 0.4035714285714286,
+						"y": 0.17073170731707318
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 58,
+						"w": 140,
+						"h": 84
+					},
+					"frame": {
+						"x": 1698,
+						"y": 604,
+						"w": 140,
+						"h": 84
+					},
+					"anchor": {
+						"x": 0.41785714285714287,
+						"y": 0.2261904761904762
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 53,
+						"w": 140,
+						"h": 87
+					},
+					"frame": {
+						"x": 1840,
+						"y": 604,
+						"w": 140,
+						"h": 87
+					},
+					"anchor": {
+						"x": 0.43214285714285716,
+						"y": 0.27586206896551724
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 49,
+						"w": 135,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 737,
+						"w": 135,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.44074074074074077,
+						"y": 0.3111111111111111
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_two_hand_whack_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 45,
+						"w": 126,
+						"h": 94
+					},
+					"frame": {
+						"x": 138,
+						"y": 737,
+						"w": 126,
+						"h": 94
+					},
+					"anchor": {
+						"x": 0.44047619047619047,
+						"y": 0.3404255319148936
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 38,
+						"w": 125,
+						"h": 101
+					},
+					"frame": {
+						"x": 266,
+						"y": 737,
+						"w": 125,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.468,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 39,
+						"w": 121,
+						"h": 100
+					},
+					"frame": {
+						"x": 393,
+						"y": 737,
+						"w": 121,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.47520661157024796,
+						"y": 0.38
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 39,
+						"w": 119,
+						"h": 99
+					},
+					"frame": {
+						"x": 516,
+						"y": 737,
+						"w": 119,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.4831932773109244,
+						"y": 0.3838383838383838
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 109,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 109,
+						"h": 101
+					},
+					"frame": {
+						"x": 637,
+						"y": 737,
+						"w": 109,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.481651376146789,
+						"y": 0.37623762376237624
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 38,
+						"w": 99,
+						"h": 100
+					},
+					"frame": {
+						"x": 748,
+						"y": 737,
+						"w": 99,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.4797979797979798,
+						"y": 0.39
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 38,
+						"w": 96,
+						"h": 100
+					},
+					"frame": {
+						"x": 849,
+						"y": 737,
+						"w": 96,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.515625,
+						"y": 0.39
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 38,
+						"w": 95,
+						"h": 100
+					},
+					"frame": {
+						"x": 947,
+						"y": 737,
+						"w": 95,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5736842105263158,
+						"y": 0.39
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 92,
+						"h": 101
+					},
+					"frame": {
+						"x": 1044,
+						"y": 737,
+						"w": 92,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.6141304347826086,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 38,
+						"w": 89,
+						"h": 102
+					},
+					"frame": {
+						"x": 1138,
+						"y": 737,
+						"w": 89,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.6573033707865169,
+						"y": 0.38235294117647056
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 39,
+						"w": 89,
+						"h": 100
+					},
+					"frame": {
+						"x": 1229,
+						"y": 737,
+						"w": 89,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.6460674157303371,
+						"y": 0.38
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 85,
+						"h": 99
+					},
+					"frame": {
+						"x": 1320,
+						"y": 737,
+						"w": 85,
+						"h": 99
+					},
+					"anchor": {
+						"x": 0.6058823529411764,
+						"y": 0.3838383838383838
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 39,
+						"w": 86,
+						"h": 101
+					},
+					"frame": {
+						"x": 1407,
+						"y": 737,
+						"w": 86,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.5523255813953488,
+						"y": 0.37623762376237624
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 38,
+						"w": 90,
+						"h": 101
+					},
+					"frame": {
+						"x": 1495,
+						"y": 737,
+						"w": 90,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.5055555555555555,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_013.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 38,
+						"w": 100,
+						"h": 101
+					},
+					"frame": {
+						"x": 1587,
+						"y": 737,
+						"w": 100,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.495,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_014.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 38,
+						"w": 110,
+						"h": 101
+					},
+					"frame": {
+						"x": 1689,
+						"y": 737,
+						"w": 110,
+						"h": 101
+					},
+					"anchor": {
+						"x": 0.4954545454545455,
+						"y": 0.38613861386138615
+					}
+				},
+				{
+					"filename": "__skeleton_warrior_05_walk_015.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 116,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 38,
+						"w": 116,
+						"h": 102
+					},
+					"frame": {
+						"x": 1801,
+						"y": 737,
+						"w": 116,
+						"h": 102
+					},
+					"anchor": {
+						"x": 0.4698275862068966,
+						"y": 0.38235294117647056
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:57460de7812298eb22ea19cfb4c790cc:719600e9248f3e162abcca6158ed5ff0:f7c9978db4aae27f32fbed5279b8c310$"
+	}
+}

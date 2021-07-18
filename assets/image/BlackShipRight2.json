@@ -1,0 +1,645 @@
+{
+	"textures": [
+		{
+			"image": "BlackShipRight2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3476,
+				"h": 1295
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 383,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 383,
+						"h": 429
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 383,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.5156657963446475,
+						"y": 0.4988344988344988
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 384,
+						"h": 430
+					},
+					"frame": {
+						"x": 386,
+						"y": 1,
+						"w": 384,
+						"h": 430
+					},
+					"anchor": {
+						"x": 0.5143229166666666,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 384,
+						"h": 429
+					},
+					"frame": {
+						"x": 772,
+						"y": 1,
+						"w": 384,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.51171875,
+						"y": 0.5011655011655012
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 385,
+						"h": 429
+					},
+					"frame": {
+						"x": 1158,
+						"y": 1,
+						"w": 385,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.5103896103896104,
+						"y": 0.5011655011655012
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.5077922077922078,
+						"y": 0.5023364485981309
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 385,
+						"h": 429
+					},
+					"frame": {
+						"x": 1932,
+						"y": 1,
+						"w": 385,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.5051948051948052,
+						"y": 0.5034965034965035
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 2319,
+						"y": 1,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.5025974025974026,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-7.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 2706,
+						"y": 1,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 384,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 433,
+						"w": 384,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.49609375,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-9.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 387,
+						"y": 433,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.4948051948051948,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 384,
+						"h": 428
+					},
+					"frame": {
+						"x": 774,
+						"y": 433,
+						"w": 384,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.4908854166666667,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-11.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 384,
+						"h": 429
+					},
+					"frame": {
+						"x": 1160,
+						"y": 433,
+						"w": 384,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.48828125,
+						"y": 0.5034965034965035
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-12.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 384,
+						"h": 429
+					},
+					"frame": {
+						"x": 1546,
+						"y": 433,
+						"w": 384,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.4856770833333333,
+						"y": 0.5034965034965035
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-13.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 384,
+						"h": 429
+					},
+					"frame": {
+						"x": 1932,
+						"y": 433,
+						"w": 384,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.4856770833333333,
+						"y": 0.5034965034965035
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-14.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 384,
+						"h": 429
+					},
+					"frame": {
+						"x": 2318,
+						"y": 433,
+						"w": 384,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.48828125,
+						"y": 0.5034965034965035
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-15.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 384,
+						"h": 428
+					},
+					"frame": {
+						"x": 2704,
+						"y": 433,
+						"w": 384,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.4908854166666667,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-16.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 3090,
+						"y": 433,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.4948051948051948,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-17.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 384,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 864,
+						"w": 384,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.49609375,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-18.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 387,
+						"y": 864,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-19.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 774,
+						"y": 864,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.5025974025974026,
+						"y": 0.5046728971962616
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 385,
+						"h": 429
+					},
+					"frame": {
+						"x": 1161,
+						"y": 864,
+						"w": 385,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.5051948051948052,
+						"y": 0.5034965034965035
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-21.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 428
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 385,
+						"h": 428
+					},
+					"frame": {
+						"x": 1548,
+						"y": 864,
+						"w": 385,
+						"h": 428
+					},
+					"anchor": {
+						"x": 0.5077922077922078,
+						"y": 0.5023364485981309
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-22.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 385,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 385,
+						"h": 429
+					},
+					"frame": {
+						"x": 1935,
+						"y": 864,
+						"w": 385,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.5103896103896104,
+						"y": 0.5011655011655012
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-23.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 429
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 384,
+						"h": 429
+					},
+					"frame": {
+						"x": 2322,
+						"y": 864,
+						"w": 384,
+						"h": 429
+					},
+					"anchor": {
+						"x": 0.51171875,
+						"y": 0.5011655011655012
+					}
+				},
+				{
+					"filename": "black-sails-rocking-action-25-frames-1317px-by-1437per-frame-24.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 430
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 384,
+						"h": 430
+					},
+					"frame": {
+						"x": 2708,
+						"y": 864,
+						"w": 384,
+						"h": 430
+					},
+					"anchor": {
+						"x": 0.5143229166666666,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b01fa8d943b42307bb248250e74f2427:bb97471d9046c0674ac05bf5eb63489b:d2164d42cd521c96254846a2e944f9cd$"
+	}
+}
